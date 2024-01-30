@@ -7,8 +7,9 @@ Final results are presented in a user friendly [report](https://lookerstudio.goo
 
 [![Report Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/69313d85-34c5-4552-b44d-cefe48c3a18f?s=p-JgLucqaOc)
 
-The results of the best model found in this project have been submitted to the kaggle competition and currently the rating of the results is among the top 33%:
+The results of the best model found in this project have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
+ and currently the rating of the results is among the top 33%:
 
-[![Position Kaggle Competition](Position_Kaggle_Competition.png)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/submissions)
+[![Position Kaggle Competition](Position_Kaggle_Competition.png)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
 
 

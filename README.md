@@ -7,7 +7,7 @@ Final results are presented in a user friendly [report](https://lookerstudio.goo
 
 [![Report Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/69313d85-34c5-4552-b44d-cefe48c3a18f?s=p-JgLucqaOc)
 
-The results of the best model found in this project have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
+The results of the best model found in [this project](https://github.com/MarinaMoreno/Estimating-the-selling-price-of-a-house-Regression-/blob/main/Estimating%20the%20selling%20price%20of%20a%20house%20(Regression).ipynb) have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
  and currently the rating of the results is among the top 33%:
 
 [![Position Kaggle Competition](Position_Kaggle_Competition.png)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)

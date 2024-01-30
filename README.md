@@ -12,4 +12,4 @@ The results of the best model found in [this project](https://github.com/MarinaM
 
 [![Position Kaggle Competition](Position_Kaggle_Competition.png)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
 
-
+Click [here](https://nbviewer.org/github/MarinaMoreno/Estimating-the-selling-price-of-a-house-Regression-/blob/707207b2725c68e6d25c1675e4baf37366a026a7/Estimating%20the%20selling%20price%20of%20a%20house%20%28Regression%29.ipynb) to properly visualize the internal links of the Jupiter notebook.
